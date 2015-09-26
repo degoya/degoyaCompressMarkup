@@ -1,7 +1,7 @@
 ----------------------------
 Extra: degoyaCompressMarkup
 ----------------------------
-Version: 1.0.0rc1
+Version: 1.0.0rc2
 Released: 2015-09-26
 Author: Alexander Herling / DEGOYA medienkommunikation oHG <a.herling@degoya.de>
 Based on the Minifier: phpwee-php-minifier from searchturbine - https://github.com/searchturbine/phpwee-php-minifier/tree/master

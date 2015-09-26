@@ -5,6 +5,6 @@ The compression is at about 20% for each page depending on your markup.
 
 Based on the Minifier: phpwee-php-minifier from searchturbine - https://github.com/searchturbine/phpwee-php-minifier/tree/master
 
-## Installation ###
+## Installation ##
 Install Package via MODX Package Management.
 The plugin will be installed and run on the event "OnWebPagePrerender".
