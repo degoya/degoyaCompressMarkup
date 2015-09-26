@@ -8,7 +8,7 @@ Based on the Minifier: phpwee-php-minifier from searchturbine - https://github.c
 License: GNU GPLv2 (or later at your option)
 
 About
-A plugin for MODX Revolution (2.3+) to minify the output Markup (HTML5/inline CSS/inline JS).
+A plugin for MODX Revolution (2.3+) to minify the output Markup (XHTML/HTML4/HTML5).
 The compression is at about 20% for each page depending on your markup.
 
 Features

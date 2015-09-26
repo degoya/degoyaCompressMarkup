@@ -3,7 +3,7 @@ Changelog for degoyaCompressMarkup
 degoyaCompressMarkup 1.0.0rc2
 ====================================
 
-- added inline css & js support
+- removed inline css & js support
 
 degoyaCompressMarkup 1.0.0rc1
 ====================================
