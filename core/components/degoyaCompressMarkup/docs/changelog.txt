@@ -1,0 +1,6 @@
+Changelog for degoyaCompressMarkup
+
+degoyaCompressMarkup 1.0.0rc1
+====================================
+
+- Initial release
