@@ -1,5 +1,11 @@
 Changelog for degoyaCompressMarkup
 
+degoyaCompressMarkup 1.0.0rc3
+====================================
+
+- only use on text/html resourcetype as https://github.com/degoya/degoyaCompressMarkup/issues/1
+
+
 degoyaCompressMarkup 1.0.0rc2
 ====================================
 

@@ -7,3 +7,6 @@ Install Package via MODX Package Management.
 The plugin will be installed and run on the event "OnWebPagePrerender".
 
 For extra more documentation view the readme.txt
+
+Find the Repo under
+https://github.com/degoya/degoyaCompressMarkup
