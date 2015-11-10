@@ -103,7 +103,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     }
   }
       $output = &$modx->resource->_output;
-      if ($modx->resource->get('context_type')==1){
+      if ($modx->resource->get('content_type')==1){
       	$output = HtmlMin::minify($output);
 	  }
     break;
